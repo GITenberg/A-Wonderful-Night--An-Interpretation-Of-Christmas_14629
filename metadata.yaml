@@ -1,0 +1,28 @@
+_repo: A-Wonderful-Night--An-Interpretation-Of-Christmas_14629
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14629-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Snowden, James H. (James Henry)
+    alias: Snowden, J. H. (James Henry)
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '5603'
+    url: http://www.gutenberg.org/2009/agents/5603
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2005-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14629'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas'
+- !lcc 'BV'
+title: A Wonderful Night; An Interpretation Of Christmas
+url: http://www.gutenberg.org/ebooks/14629
