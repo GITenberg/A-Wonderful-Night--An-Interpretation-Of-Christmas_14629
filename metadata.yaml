@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5603'
     url: http://www.gutenberg.org/2009/agents/5603
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14629#A-Wonderful-Night--An-Interpretation-Of-Christmas
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2005-01-07'
 gutenberg_type: Text
